@@ -1,4 +1,5 @@
-﻿using System;
+﻿using stduding_c_sharp_shimon_moshe.Object_Learnnig;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace stduding_c_sharp_shimon_moshe
     {
         static void Main(string[] args)
         {
+            TestBasicObject.Demo();
         }
     }
 }
