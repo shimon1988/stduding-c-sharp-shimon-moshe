@@ -68,8 +68,12 @@ namespace stduding_c_sharp_shimon_moshe.Object_Learnnig
             Console.WriteLine("Template 2 = intProperty = {0} , string property = {1}, boolProperty ={2} "
                , template2.intProperty, template2.stringProperty, template2.boolProperty);
 
-
+           
         }
+
+        
+
+            
 
     }
 }
