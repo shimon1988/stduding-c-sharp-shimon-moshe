@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Object-Learnnig\ObjectTemplate.cs" />
+    <Compile Include="OOP Stock Mangment\ExchangeDemoHomeWork.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

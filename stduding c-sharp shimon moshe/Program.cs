@@ -11,7 +11,19 @@ namespace stduding_c_sharp_shimon_moshe
     {
         static void Main(string[] args)
         {
-            TestBasicObject.Demo();
+            //TestBasicObject.Demo();
+            // Here we are not setting 
+            // Capacity explicitly 
+            List<int> firstlist = new List<int>();
+
+            // adding elements in firstlist 
+            firstlist.Add(1);
+            firstlist.Add(2);
+            firstlist.Add(3);
+            firstlist.Add(4);
+
+            Console.WriteLine("");
+
         }
     }
 }
