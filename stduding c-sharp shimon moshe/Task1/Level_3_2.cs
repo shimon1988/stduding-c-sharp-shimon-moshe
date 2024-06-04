@@ -12,7 +12,7 @@ namespace stduding_c_sharp_shimon_moshe.Task1
         
         public static void RunProcess()
         {
-            Console.WriteLine($"hi , i am class :Level_3_2");
+            Console.WriteLine("hello , i am class :Level_3_2");
         }
     }
 }
