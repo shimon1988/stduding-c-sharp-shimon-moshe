@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace stduding_c_sharp_shimon_moshe.Task1
+namespace studying_c_sharp_shimon_moshe.Task1
 {
     public class Level_3_2
     {
